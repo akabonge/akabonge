@@ -69,9 +69,9 @@ I came from **Uganda** to the United States with a lot of hope — and I've spen
 |---|---|---|---|
 | 🔐 **ProofMode** | Secure proof-of-process platform for student writing. 2nd place UMW pitch competition. | FastAPI · Next.js · PostgreSQL · Docker | [Live](https://app.proofmode.co) · [Repo](https://github.com/akabonge/proofmode) |
 | 📡 **EAS RAG Pipeline** | AI pipeline for Emergency Alerting System regulatory documents. Presented at NCUR 2026. | RAG · Pinecone · ChromaDB · Streamlit | [Repo](https://github.com/UMW-Projects/CPSC491Spring2026) |
-| 🍽️ **Casa Alo's Bistro** | AI chatbot (Aria) for a restaurant — RAG over full menu, hours, and FAQs. | FastAPI · Claude · ChromaDB · Ollama | [Repo](https://github.com/akabonge/alorestaurant) |
-| 🏡 **Rappahannock Realty** | AI lead qualifier + CRM dashboard with background scoring for real estate. | FastAPI · Claude · ChromaDB · Ollama | [Repo](https://github.com/akabonge/realestate) |
-| ✨ **Luminara Med Spa** | AI treatment recommender with candidacy screening and provider kanban dashboard. | FastAPI · Claude · ChromaDB · Ollama | [Repo](https://github.com/akabonge/med-spa) |
+| 🍽️ **Casa Alo's Bistro** | AI chatbot (Aria) for a restaurant — RAG over full menu, hours, and FAQs. | FastAPI · Claude · ChromaDB · Ollama | [Live](https://alorestaurant-production.up.railway.app) · [Repo](https://github.com/akabonge/alorestaurant) |
+| 🏡 **Rappahannock Realty** | AI lead qualifier + CRM dashboard with background scoring for real estate. | FastAPI · Claude · ChromaDB · Ollama | [Live](https://realestate-production-bbce.up.railway.app) · [Repo](https://github.com/akabonge/realestate) |
+| ✨ **Luminara Med Spa** | AI treatment recommender with candidacy screening and provider kanban dashboard. | FastAPI · Claude · ChromaDB · Ollama | [Live](https://med-spa-production.up.railway.app) · [Repo](https://github.com/akabonge/med-spa) |
 
 ---
 
