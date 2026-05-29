@@ -80,7 +80,7 @@ I came from **Uganda** to the United States with a lot of hope — and I've spen
 
 <div align="center">
 
-![Aloysious's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akabonge&show_icons=true&theme=dark&bg_color=0d0f14&title_color=C9A84C&icon_color=C9A84C&text_color=e2e4ef&border_color=252940&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=akabonge&theme=dark&background=0d0f14&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=e2e4ef&dates=e2e4ef&border=252940)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akabonge&layout=compact&theme=dark&bg_color=0d0f14&title_color=C9A84C&text_color=e2e4ef&border_color=252940&hide_border=false)
 
