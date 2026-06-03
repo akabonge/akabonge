@@ -73,6 +73,7 @@ I came from **Uganda** to the United States with a lot of hope — and I've spen
 | 🏡 **Rappahannock Realty** | Scout — agentic AI that searches 14 live listings, schedules showings, and runs mortgage estimates. | FastAPI · Claude · MCP · ChromaDB | [Live](https://realestate-production-bbce.up.railway.app) · [Repo](https://github.com/akabonge/realestate) |
 | ✨ **Luminara Med Spa** | Luna — agentic AI that matches treatments to concerns, checks provider availability, and books appointments. | FastAPI · Claude · MCP · ChromaDB | [Live](https://med-spa-production.up.railway.app) · [Repo](https://github.com/akabonge/med-spa) |
 | 🔧 **Ironclad Home Services** | Rex — agentic AI dispatcher that checks technician availability, issues tickets, and quotes jobs on the spot. | FastAPI · Claude · MCP · ChromaDB | [Live](https://ironclad-production-a158.up.railway.app) · [Repo](https://github.com/akabonge/ironclad) |
+| ⚖️ **Billie Jean Law** | Vera — agentic AI intake that calculates Virginia SOLs, triages urgency, and books consultations 24/7. | FastAPI · Claude · MCP · SQLite | [Repo](https://github.com/akabonge/lawfirm) |
 
 ---
 
